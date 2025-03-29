@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+cambio en rama1
+=======
+cambio en rama2
+>>>>>>> rama2
